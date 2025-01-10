@@ -1,1 +1,1 @@
-# health_insurance_mlproject
+This project is part of the Codebasics Machine Learning Course
